@@ -30,12 +30,14 @@ header {
 }
 
 .artist-name {
-    font-family: 'Dancing Script', 'Caveat', cursive;
+    font-family: 'Shadows Into Light', 'Kalam', cursive;
     font-size: 3.5rem;
     font-weight: 400;
     color: #000;
     margin-bottom: 20px;
-    letter-spacing: 2px;
+    letter-spacing: 0.5px;
+    font-style: normal;
+    transform: rotate(-0.5deg);
 }
 
 /* Navigation */
