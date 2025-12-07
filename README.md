@@ -58,3 +58,4 @@ Works on all modern browsers (Chrome, Firefox, Safari, Edge).
 - Contact form is a demo - integrate with a backend service for actual functionality
 - Social media links are placeholders - update with actual URLs
 
+
