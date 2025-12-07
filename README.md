@@ -59,3 +59,4 @@ Works on all modern browsers (Chrome, Firefox, Safari, Edge).
 - Social media links are placeholders - update with actual URLs
 
 
+
