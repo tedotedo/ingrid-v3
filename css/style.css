@@ -37,7 +37,8 @@ header {
     margin-bottom: 20px;
     letter-spacing: 0.5px;
     font-style: normal;
-    transform: rotate(-0.5deg);
+    transform: rotate(-2deg);
+    display: inline-block;
 }
 
 /* Navigation */
