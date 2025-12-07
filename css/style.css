@@ -30,16 +30,15 @@ header {
 }
 
 .artist-name {
-    font-family: 'Shadows Into Light', 'Indie Flower', 'Kalam', cursive !important;
-    font-size: 3.5rem;
-    font-weight: 400;
-    color: #000;
+    font-family: 'Shadows Into Light', 'Indie Flower', 'Kalam', 'Caveat', cursive !important;
+    font-size: 3.5rem !important;
+    font-weight: 400 !important;
+    color: #000 !important;
     margin-bottom: 20px;
     letter-spacing: 0.5px;
-    font-style: normal;
+    font-style: normal !important;
     transform: rotate(3deg);
     display: inline-block;
-    font-display: swap;
 }
 
 /* Navigation */
